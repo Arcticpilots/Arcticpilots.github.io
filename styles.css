@@ -1,11 +1,14 @@
 body {
     text-align: center;
+    background-color: grey ;
 }
 
 h1 {
     font-family: Monoton;
     font-size: 70px;
     margin: 0.2em;
+    box-shadow:  0  0  5px  2px black ;
+	border-radius: 5px ;
 }
 
 h2 {
